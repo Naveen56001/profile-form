@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.no-focus-text:not(:placeholder-shown) ~ label {
+  top: 1rem; /* Adjust as needed */
+  font-size: 0.75rem; /* Adjust as needed */
+  color: #3b82f6; /* Tailwind's blue-500 */
+}
