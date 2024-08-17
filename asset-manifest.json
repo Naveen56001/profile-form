@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profile-form/static/css/main.321c6b94.css",
+    "main.js": "/profile-form/static/js/main.e7f9da21.js",
+    "index.html": "/profile-form/index.html",
+    "main.321c6b94.css.map": "/profile-form/static/css/main.321c6b94.css.map",
+    "main.e7f9da21.js.map": "/profile-form/static/js/main.e7f9da21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321c6b94.css",
+    "static/js/main.e7f9da21.js"
+  ]
+}
